@@ -3,6 +3,7 @@
   "name": "Sample Extension",
   "description": "How to build a simple extension",
   "version": "0.1.0",
+  "permissions": ["scripting"],
   "icons": {
     "16": "/assets/images/icon.png",
     "32": "/assets/images/icon.png",
@@ -10,6 +11,7 @@
     "128": "/assets/images/icon.png"
   },
   "action": {
+    "default_popup": "popup/popup.html",
     "default_icon": {
       "16": "/assets/images/icon.png",
       "32": "/assets/images/icon.png",
