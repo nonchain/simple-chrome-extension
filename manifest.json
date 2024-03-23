@@ -19,5 +19,6 @@
       "128": "/assets/images/icon.png"
     },
     "default_title": "Nonchain"
-  }
+  },
+  "options_page": "options/options.html"
 }
